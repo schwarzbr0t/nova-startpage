@@ -114,51 +114,62 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"name": "Website",
+						"url": "https://www.novalutions.de",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "Website Admin",
+						"url": "https://www.novalutions.de/wp-admin/",
+						"icon": "fa-brands:wordpress"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Uptime Kuma",
+						"url": "https://uptime.novalutions.de/dashboard",
+						"icon": "mdi:pulse"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "iCal Bookings",
+						"url": "https://booking.novalutions.de/",
+						"icon": "uil:calender"
+					},
+					{
+						"name": "Zeiterfassung",
+						"url": "https://kimai.novalutions.de/de_DE/dashboard/",
+						"icon": "mdi:stopwatch"
 					}
+					
 				]
 			},
 			{
-				"title": "Dev",
+				"title": "G-Suite",
 				"color": "magenta",
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
+						"name": "Gmail",
+						"url": "https://mail.google.com/mail/u/0/#inbox",
+						"icon": "material-symbols:mail"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "Calender",
+						"url": "https://calendar.google.com/calendar/u/0/r/week",
+						"icon": "ph:calendar"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
+						"name": "Drive",
+						"url": "https://drive.google.com/drive/u/0/my-drive",
+						"icon": "mingcute:drive-fill"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "Analytics",
+						"url": "https://analytics.google.com/analytics/web/?authuser=2#/p418205520/reports/intelligenthome",
+						"icon": "material-symbols:analytics"
+					},
+					{
+						"name": "Search Console",
+						"url": "https://search.google.com/u/0/search-console?resource_id=sc-domain:novalutions.de&hl=de",
+						"icon": "material-symbols:search"
 					}
 				]
 			},
@@ -168,95 +179,95 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "LinkedIn",
+						"url": "https://www.linkedin.com/feed/",
+						"icon": "mdi:linkedin"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "Instagram",
+						"url": "https://www.instagram.com/novalutions",
+						"icon": "mdi:instagram"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
+						"name": "Canva",
+						"url": "https://www.canva.com/folder/FAF89jlSN9Y",
+						"icon": "simple-icons:canva"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Semrush",
+						"url": "https://de.semrush.com/projects/15120781",
+						"icon": "tabler:seo"
 					}
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "AI & Automation",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "GPT",
+						"url": "https://chat.openai.com/",
+						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
+						"name": "novaAI",
+						"url": "https://novaai.novalutions.de/dashboard/admin",
+						"icon": "eos-icons:ai"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
-					},
-					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "n8n",
+						"url": "https://n8n.novalutions.de/",
+						"icon": "vaadin:automation"
 					}
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Operations",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Finom",
+						"url": "https://app.finom.co/de/money",
+						"icon": "mdi:finance"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Finance Sheet",
+						"url": "https://docs.google.com/spreadsheets/d/1rMQX9hhR8CtVwDPG5H8si--VsOk1DQJOM3PIt_HGKWs/edit#gid=701701991",
+						"icon": "material-symbols:finance"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "Capacity Sheet",
+						"url": "https://docs.google.com/spreadsheets/d/1Gm_2Ekl8bLt_KMgGCZ06-WRPCbwt15S-LAS_RQpSTDE/edit#gid=913785366",
+						"icon": "teenyicons:gantt-chart-outline"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "KPI Sheet",
+						"url": "https://docs.google.com/spreadsheets/d/1XkNrH1jeR7UXDP8TX5d0cVz1xQSmoIyQq31Epfk7SR8/edit#gid=0",
+						"icon": "carbon:summary-kpi"
+					},
+					{
+						"name": "Files",
+						"url": "https://files.novalutions.de/apps/files/?dir=/&fileid=2",
+						"icon": "mdi:files"
 					}
 				]
 			},
 			{
-				"title": "Tech",
+				"title": "Services",
 				"color": "yellow",
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
+						"name": "Startplatz",
+						"url": "https://www.startplatz.de/x/feed#login",
 						"icon": "game-icons:techno-heart"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "Sortlist",
+						"url": "https://www.sortlist.de/agency/novalutions-ug-haftungsbeschrankt",
+						"icon": "ic:round-list"
 					},
 					{
 						"name": "It's Foss",
