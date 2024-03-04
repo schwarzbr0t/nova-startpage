@@ -119,7 +119,7 @@
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Website Admin",
+						"name": "Wordpress Admin",
 						"url": "https://www.novalutions.de/wp-admin/",
 						"icon": "fa-brands:wordpress"
 					},
@@ -270,14 +270,14 @@
 						"icon": "ic:round-list"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
+						"name": "Deutsche Startups",
+						"url": "https://www.deutsche-startups.de/",
+						"icon": "material-symbols:rocket"
 					},
 					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Gründerszene",
+						"url": "https://www.businessinsider.de/gruenderszene/",
+						"icon": "mdi:business-outline"
 					}
 				]
 			}
