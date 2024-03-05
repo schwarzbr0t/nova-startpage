@@ -171,6 +171,12 @@
 						"url": "https://search.google.com/u/0/search-console?resource_id=sc-domain:novalutions.de&hl=de",
 						"icon": "material-symbols:search"
 					}
+					,
+					{
+						"name": "Clarity",
+						"url": "https://clarity.microsoft.com/projects/view/lbccyxpmzw/dashboard",
+						"icon": "devicon:clarity"
+					}
 				]
 			},
 			{
@@ -214,6 +220,11 @@
 						"name": "novaAI",
 						"url": "https://novaai.novalutions.de/dashboard/admin",
 						"icon": "eos-icons:ai"
+					},
+					{
+						"name": "Ideogram",
+						"url": "https://ideogram.ai/t/explore",
+						"icon": "material-symbols:image"
 					},
 					{
 						"name": "n8n",
