@@ -289,6 +289,11 @@
 						"name": "Gründerszene",
 						"url": "https://www.businessinsider.de/gruenderszene/",
 						"icon": "mdi:business-outline"
+					},
+					{
+						"name": "Mitarbeiterangebote",
+						"url": "https://ihre.mitarbeiterangebote.de/login",
+						"icon": "mdi:business-outline"
 					}
 				]
 			}
