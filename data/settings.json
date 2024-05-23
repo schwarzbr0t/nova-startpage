@@ -240,6 +240,16 @@
 						"name": "Wireframes",
 						"url": "https://app.visily.ai/recent-boards",
 						"icon": "openmoji:wireframes"
+					},
+					{
+						"name": "Midjourney",
+						"url": "https://www.midjourney.com/imagine",
+						"icon": "material-symbols:image"
+					},
+					{
+						"name": "Perplexity",
+						"url": "https://www.perplexity.ai/",
+						"icon": "simple-icons:perplexity"
 					}
 				]
 			},
